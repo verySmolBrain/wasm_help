@@ -28,4 +28,4 @@ EMSCRIPTEN_BINDINGS(penguin_module) {
 }
 ```
 
-Afterwards I the `.wasm`, `.js` and `.worker.js` files to the utils folder.
+Afterwards I moved the `.wasm`, `.js` and `.worker.js` files to the utils folder.
